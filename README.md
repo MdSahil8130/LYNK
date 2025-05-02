@@ -9,7 +9,7 @@
 
 ## Setup
 Install node.js and pnpm if you haven't already. Then follow the steps below to install and run Lynk on your local machine.
-1. Clone the repository: `git clone https://github.com/Carbrex/lynk.git`
+1. Clone the repository: `git clone https://github.com/MdSahil8130/lynk.git`
 2. Install dependencies: `pnpm install`
 3. Add environment variable to .env in server and client folders:
 ```
