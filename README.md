@@ -20,7 +20,7 @@ cp client/.env.example client/.env
 
 ### Alternative Setup with Docker
 Alternatively, you can run Lynk using Docker. Follow the steps below to build and run the Docker image.
-1. Clone the repository: `git clone https://github.com/Carbrex/lynk.git`
+1. Clone the repository: `git clone https://github.com/MdSahil8130/lynk.git`
 2. Add environment variable to .env in server and client folders:
 ```
 cp server/.env.example server/.env
